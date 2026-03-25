@@ -1,5 +1,6 @@
 Projeto de analise de dados, analisando uma base de dados pública do governo referente à alfabetização no Brasil. A base de dados foi encontrada no site oficial do governo brasileiro: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/avaliacao-da-alfabetizacao/resultados e, apesar de não ser a ideia inicial, os dados que utilizei no projeto são apenas do ano 2024.
 
+Eu não subi os arquivos .csv que utilizei no Power BI para o GitHub pois alguns deles ultrapassaram o limite de 100mb, então caso queira replicar o projeto é necessário que extraia os arquivos .zip que estão dentro da pasta ./2024/DADOS/.
 
 O projeto foi feito com a linguagem Python, utilizando biblioteca Pandas para manipulação e visualização básica dos dados. Para visualização avançada e interpretação utilizei a ferramenta Power BI.
 
